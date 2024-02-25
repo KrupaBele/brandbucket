@@ -1,0 +1,26 @@
+export const navConfig = {
+  byStyle: [
+    "Premium names",
+    "Short names",
+    "Catchy names",
+    "Classic & elegant names",
+    "Modern & trendy names",
+    "International & global names",
+    "Creative business names",
+    "Evocative & suggestive names",
+    "Feminine & female names",
+    "Masculine & male names",
+  ],
+  byIndustry: [
+    "Agriculture & farming",
+    "Art & design",
+    "Charity & nonprofit",
+    "Children & pets",
+    "Community & social",
+    "Crypto & finance",
+    "Dating & relationships",
+    "Education & training",
+    "Employment & recruitment",
+    "Energy & environment",
+  ],
+};

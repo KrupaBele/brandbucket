@@ -1,0 +1,313 @@
+export const namesConfig = [
+  // Group 1
+  {
+    id: "kph24l6shd",
+    names: [
+      "premium-names",
+      "international-&-global-names",
+      "agriculture-&-farming",
+      "crypto-&-finance",
+    ],
+    img: "https://www.brandbucket.com/sites/default/files/logo_uploads/484922/large_hardware.png",
+    domain: "hardware.com",
+    price: "3000000",
+    cartItem: false,
+    favItem: false,
+  },
+  {
+    id: "nhoqcmjoe8",
+    names: [
+      "premium-names",
+      "international-&-global-names",
+      "agriculture-&-farming",
+      "crypto-&-finance",
+    ],
+    img: "https://www.brandbucket.com/sites/default/files/logo_uploads/445500/large_opus.png",
+    domain: "opus.com",
+    price: "2410200",
+  },
+  {
+    id: "camvqnpvm3",
+    names: [
+      "premium-names",
+      "international-&-global-names",
+      "agriculture-&-farming",
+      "crypto-&-finance",
+    ],
+    img: "https://www.brandbucket.com/sites/default/files/logo_uploads/429881/large_kix.png",
+    domain: "kix.com",
+    price: "1853900",
+  },
+  {
+    id: "m5i6tqqduk",
+    names: [
+      "premium-names",
+      "international-&-global-names",
+      "agriculture-&-farming",
+      "crypto-&-finance",
+    ],
+    img: "https://www.brandbucket.com/sites/default/files/logo_uploads/467307/large_tvu.png",
+    domain: "tvu.com",
+    price: "1800000",
+  },
+  {
+    id: "zf7qfp3s6z",
+    names: [
+      "premium-names",
+      "international-&-global-names",
+      "agriculture-&-farming",
+      "crypto-&-finance",
+    ],
+    img: "https://www.brandbucket.com/sites/default/files/logo_uploads/325817/large_medic_0.png",
+    domain: "medic.com",
+    price: "1591350",
+  },
+
+  // Group 2
+  {
+    id: "vf7jq0guyt",
+    names: [
+      "short-names",
+      "creative-business-names",
+      "art-&-design",
+      "dating-&-relationships",
+    ],
+    img: "https://www.brandbucket.com/sites/default/files/logo_uploads/529137/large_enovor_0.png",
+    domain: "enovor.com",
+    price: "2275",
+  },
+  {
+    id: "m9a6l33h95",
+    names: [
+      "short-names",
+      "creative-business-names",
+      "art-&-design",
+      "dating-&-relationships",
+    ],
+    img: "https://www.brandbucket.com/sites/default/files/logo_uploads/181872/large_zilxy.png",
+    domain: "zilxy.com",
+    price: "2080",
+  },
+  {
+    id: "3rh41tj6p2",
+    names: [
+      "short-names",
+      "creative-business-names",
+      "art-&-design",
+      "dating-&-relationships",
+    ],
+    img: "https://www.brandbucket.com/sites/default/files/logo_uploads/181554/large_xollos.png",
+    domain: "xollos.com",
+    price: "2635",
+  },
+  {
+    id: "dmtcpsscez",
+    names: [
+      "short-names",
+      "creative-business-names",
+      "art-&-design",
+      "dating-&-relationships",
+    ],
+    img: "https://www.brandbucket.com/sites/default/files/logo_uploads/188991/large_javiar.png",
+    domain: "javiar.com",
+    price: "2350",
+  },
+  {
+    id: "i26lephdsy",
+    names: [
+      "short-names",
+      "creative-business-names",
+      "art-&-design",
+      "dating-&-relationships",
+    ],
+    img: "https://www.brandbucket.com/sites/default/files/logo_uploads/490456/large_sikuma.png",
+    domain: "sikuma.com",
+    price: "3835",
+  },
+
+  // Group 3
+  {
+    id: "yai6ija44y",
+    names: [
+      "catchy-names",
+      "evocative-&-suggestive-names",
+      "charity-&-nonprofit",
+      "education-&-training",
+    ],
+    img: "https://www.brandbucket.com/sites/default/files/logo_uploads/454763/large_biologystudio.png",
+    domain: "biologystudio.com",
+    price: "5395",
+  },
+  {
+    id: "2ex8vse2kg",
+    names: [
+      "catchy-names",
+      "evocative-&-suggestive-names",
+      "charity-&-nonprofit",
+      "education-&-training",
+    ],
+    img: "https://www.brandbucket.com/sites/default/files/logo_uploads/73346/large_mixpulse200.png",
+    domain: "mixpulse.com",
+    price: "3290",
+  },
+  {
+    id: "ddrl7ifiub",
+    names: [
+      "catchy-names",
+      "evocative-&-suggestive-names",
+      "charity-&-nonprofit",
+      "education-&-training",
+    ],
+    img: "https://www.brandbucket.com/sites/default/files/logo_uploads/313683/large_steelarena.png",
+    domain: "steelarena.com",
+    price: "3810",
+  },
+  {
+    id: "30f2mfsty7",
+    names: [
+      "catchy-names",
+      "evocative-&-suggestive-names",
+      "charity-&-nonprofit",
+      "education-&-training",
+    ],
+    img: "https://www.brandbucket.com/sites/default/files/logo_uploads/264830/large_playerpit.png",
+    domain: "playerpit.com",
+    price: "2595",
+  },
+  {
+    id: "j6x8fo8xqb",
+    names: [
+      "catchy-names",
+      "evocative-&-suggestive-names",
+      "charity-&-nonprofit",
+      "education-&-training",
+    ],
+    img: "	https://www.brandbucket.com/sites/default/files/logo_uploads/368770/large_decisionnode_0.png",
+    domain: "decisionnode.com",
+    price: "3685",
+  },
+
+  // Group 4
+  {
+    id: "lhyqawgawg",
+    names: [
+      "classic-&-elegant-names",
+      "feminine-&-female-names",
+      "children-&-pets",
+      "employment-&-recruitment",
+    ],
+    img: "https://www.brandbucket.com/sites/default/files/logo_uploads/529171/large_classcontent.png",
+    domain: "classcontent.com",
+    price: "3495",
+  },
+  {
+    id: "l9fmr2qasm",
+    names: [
+      "classic-&-elegant-names",
+      "feminine-&-female-names",
+      "children-&-pets",
+      "employment-&-recruitment",
+    ],
+    img: "https://www.brandbucket.com/sites/default/files/logo_uploads/528642/large_heritagefive.png",
+    domain: "heritagefive.com",
+    price: "2495",
+  },
+  {
+    id: "uedtl66og2",
+    names: [
+      "classic-&-elegant-names",
+      "feminine-&-female-names",
+      "children-&-pets",
+      "employment-&-recruitment",
+    ],
+    img: "	https://www.brandbucket.com/sites/default/files/logo_uploads/528370/large_auditstandard.png",
+    domain: "auditstandard.com",
+    price: "4495",
+  },
+  {
+    id: "79di6o11he",
+    names: [
+      "classic-&-elegant-names",
+      "feminine-&-female-names",
+      "children-&-pets",
+      "employment-&-recruitment",
+    ],
+    img: "https://www.brandbucket.com/sites/default/files/logo_uploads/527876/large_notablebeauty_0.png",
+    domain: "notablebeauty.com",
+    price: "1995",
+  },
+  {
+    id: "j1lcigbd69",
+    names: [
+      "classic-&-elegant-names",
+      "feminine-&-female-names",
+      "children-&-pets",
+      "employment-&-recruitment",
+    ],
+    img: "https://www.brandbucket.com/sites/default/files/logo_uploads/528245/large_oldabode.png",
+    domain: "oldabode.com",
+    price: "2695",
+  },
+
+  // Group 5
+  {
+    id: "tn3fvgvf8i",
+    names: [
+      "modern-&-trendy-names",
+      "masculine-&-male-names",
+      "community-&-social",
+      "energy-&-environment",
+    ],
+    img: "https://www.brandbucket.com/sites/default/files/logo_uploads/529107/large_vallisaurea.png",
+    domain: "vallisaurea.com",
+    price: "3595",
+  },
+  {
+    id: "qkzicdak81",
+    names: [
+      "modern-&-trendy-names",
+      "masculine-&-male-names",
+      "community-&-social",
+      "energy-&-environment",
+    ],
+    img: "https://www.brandbucket.com/sites/default/files/logo_uploads/529207/large_hilz.png",
+    domain: "hilz.com",
+    price: "14395",
+  },
+  {
+    id: "l7ycev4fhf",
+    names: [
+      "modern-&-trendy-names",
+      "masculine-&-male-names",
+      "community-&-social",
+      "energy-&-environment",
+    ],
+    img: "https://www.brandbucket.com/sites/default/files/logo_uploads/529285/large_gentlemelody.png",
+    domain: "gentlemelody.com",
+    price: "1995",
+  },
+  {
+    id: "h8f1fzdipd",
+    names: [
+      "modern-&-trendy-names",
+      "masculine-&-male-names",
+      "community-&-social",
+      "energy-&-environment",
+    ],
+    img: "https://www.brandbucket.com/sites/default/files/logo_uploads/529168/large_buyingtoday.png",
+    domain: "buyingtoday.com",
+    price: "3675",
+  },
+  {
+    id: "fyyv0ef2eh",
+    names: [
+      "modern-&-trendy-names",
+      "masculine-&-male-names",
+      "community-&-social",
+      "energy-&-environment",
+    ],
+    img: "https://www.brandbucket.com/sites/default/files/logo_uploads/529176/large_zeleso.png",
+    domain: "zeleso.com",
+    price: "2965",
+  },
+];
